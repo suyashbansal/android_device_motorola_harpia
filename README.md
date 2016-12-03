@@ -19,4 +19,4 @@ Camera  | 8MP, autofocus, flash LED
 
 Copyright 2016 - The CyanogenMod Project.
 
-![Moto G 2015](https://wiki.cyanogenmod.org/images/thumb/8/81/Osprey.png/314px-Osprey.png "Moto G 2015")
+![Moto G Play](https://i0.wp.com/ecx.images-amazon.com/images/I/71DZLRD6l2L._SL1500_.jpg?w=314 "Moto G Play")
